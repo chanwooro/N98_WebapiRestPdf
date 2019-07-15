@@ -1,12 +1,12 @@
 {
-    "name": "n98/webapirestpdf",
-    "description": "Adds PDF rendering to Webapi",
+    "name": "chan-ro/webapirestpdf",
+    "description": "Adds PDF rendering to Webapi. FORK",
     "type": "magento2-module",
     "license": [
         "proprietary"
     ],
     "require": {
-        "php": "~5.6.0|~7.0.0",
+        "php": "~5.6.0|~7.0.0|~7.2.19",
             "magento/framework": "100.0.*|100.1.*"
         },
     "autoload": {

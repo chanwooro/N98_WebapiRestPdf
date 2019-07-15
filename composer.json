@@ -14,7 +14,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "N98\\WebapiRestPdf\\FORK\\": ""
+            "N98\\WebapiRestPdf\\": ""
         }
     }
 }

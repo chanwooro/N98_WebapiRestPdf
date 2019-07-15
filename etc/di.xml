@@ -7,7 +7,7 @@
             <argument name="renders" xsi:type="array">
                 <item name="application_pdf" xsi:type="array">
                     <item name="type" xsi:type="string">application/pdf</item>
-                    <item name="model" xsi:type="string">\N98\WebapiRestPdf\Response\Renderer\PdfRenderer</item>
+                    <item name="model" xsi:type="string">\chanro\WebapiRestPdf\Response\Renderer\PdfRenderer</item>
                 </item>
             </argument>
         </arguments>

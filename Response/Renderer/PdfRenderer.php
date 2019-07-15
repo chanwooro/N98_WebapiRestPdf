@@ -5,13 +5,13 @@
  * @see PROJECT_LICENSE.txt
  */
 
-namespace chanro\WebapiRestPdf\Response\Renderer;
+namespace N98\WebapiRestPdf\Response\Renderer;
 
 use Magento\Framework\Webapi\Exception;
 use Magento\Framework\Webapi\Rest\Request;
 use Magento\Framework\Webapi\Rest\Response\RendererInterface;
 use Magento\Sales\Api\InvoiceRepositoryInterface;
-use chanro\WebapiRestPdf\Service\InvoicePdfGeneratorService;
+use N98\WebapiRestPdf\Service\InvoicePdfGeneratorService;
 
 class PdfRenderer implements RendererInterface
 {

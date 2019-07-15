@@ -5,7 +5,7 @@
  * @see PROJECT_LICENSE.txt
  */
 
-namespace chanro\WebapiRestPdf\Service;
+namespace N98\WebapiRestPdf\Service;
 
 use Magento\Sales\Api\Data\InvoiceInterface;
 
